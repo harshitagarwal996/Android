@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRUDHarshit</string>
+    <string name="title">Type Employee Information:</string>
+    <string name="emp_name">Type Employee name</string>
+    <string name="emp_desg">Type Employee designation</string>
+    <string name="emp_salary">Type Employee Salary</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="view_employee">View Employee</string>
+    <string name="title_activity_view_all_employee">ViewAllEmployee</string>
+    <string name="title_activity_view_employee">ActivityViewEmployee</string>
+
+</resources>
